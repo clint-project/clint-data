@@ -11,3 +11,12 @@ we are only publicly releasing the tweet IDs of the collected tweets. The data i
 
 **With Twitter's changes to its Academic API policies, it’s no longer possible to collect or rehydrate tweets 
 as we usually did, however we open data in case at some point it will become feasible to do it.**
+
+### Statistics summary
+
+|                   | IPCC		| Doñana	| Climate Refugees    	| COP27    	|
+| --                | ----              | ----          | ----			| -----		|
+| Number of tweets  | 352,723		| 1,487,425	| 1,938,932         	| 6,225,508     |
+| Number of authors | 157,056		| 290,782       | 841,454           	| 1,351,903	|
+| First tweet date  | 2023-03-18	| 2019-01-01    | 2008-03-10        	| 2022-09-01	|
+| Last tweet date   | 2023-03-26	| 2023-04-30    | 2022-12-31        	| 2022-11-27	|
