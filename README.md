@@ -1,5 +1,5 @@
-# Open Data Tools
-This repository contains tools for open data.
+# CLINT Data
+This repository contains the date used in the project CLINT.
 
 ## Open Twitter Data
 
