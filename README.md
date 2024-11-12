@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14095218.svg)](https://doi.org/10.5281/zenodo.14095218)
+
 # CLINT Data
 This repository contains the date used in the project CLINT.
 
