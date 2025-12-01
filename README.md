@@ -42,16 +42,16 @@ as we usually did, however we open data in case at some point it will become fea
 The annotated data available [datasets/twitter_annotated/tweet_annotated.csv](datasets/twitter_annotated/tweet_annotated.csv) includes tweets from four different datasets: COP27, IPCC, Climate Refugees and Doñana. Each dataset is represented by 80 tweets.
 The information included in the dataset is the following:
 
-network_id – ID of the network the tweet belongs to.
-community_user – Community of the source user.
-community_referenced – Community of target user.
-id – Unique tweet identifier.
-original_tweet – Text of the tweet in its original language.
-translated_text – Translated text of the tweet.
-model_score – Score assigned by the predictive model.
-negativity_score_reviewer1 – Negativity score from reviewer 1.
-negativity_score_reviewer2 – Negativity score from reviewer 2.
-negativity_score_reviewer3 – Negativity score from reviewer 3
+- **network_id** – ID of the network the tweet belongs to
+- **community_user** – Community of the source user
+- **community_referenced** – Community of the target user
+- **id** – Unique tweet identifier
+- **original_tweet** – Text of the tweet in its original language
+- **translated_text** – Translated text of the tweet
+- **model_score** – Score assigned by the predictive model
+- **negativity_score_reviewer1** – Negativity score from reviewer 1
+- **negativity_score_reviewer2** – Negativity score from reviewer 2
+- **negativity_score_reviewer3** – Negativity score from reviewer 3
 
 
 ## Open YouTube data
